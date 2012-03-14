@@ -1,0 +1,5 @@
+Pretty simple script.
+
+run ./fake_dns2 --help
+
+Only argument required is the interface to listent/send packets one
