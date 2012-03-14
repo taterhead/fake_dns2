@@ -1,5 +1,12 @@
-Pretty simple script.
+Pretty simple script. Requires scapy.
 
 run ./fake_dns2 --help
+Usage: fake_dns2.py [options]
 
-Only argument required is the interface to listent/send packets one
+Options:
+  -h, --help            show this help message and exit
+  -i IFACE, --interface=IFACE
+                        Interface to listen and send pkts on
+
+
+Only argument required is the interface to listen/send packets one
