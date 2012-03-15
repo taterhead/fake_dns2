@@ -1,4 +1,4 @@
-Pretty simple script. Requires scapy.
+Pretty simple set of scripts. fake dns and fake arp can be used on their own or together with 'fake_net'.
 
 run ./fake_dns2 --help
 Usage: fake_dns2.py [options]
